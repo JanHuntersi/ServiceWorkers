@@ -1,0 +1,22 @@
+{
+  "name": "serviceworkers",
+  "version": "1.0.0",
+  "description": "My intro to learning about progressive web Apps and Service Workers.\r -> Registering a service worker and working with the cache.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanHuntersi/ServiceWorkers.git"
+  },
+  "author": "Jan Sernec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JanHuntersi/ServiceWorkers/issues"
+  },
+  "homepage": "https://github.com/JanHuntersi/ServiceWorkers#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
+}
